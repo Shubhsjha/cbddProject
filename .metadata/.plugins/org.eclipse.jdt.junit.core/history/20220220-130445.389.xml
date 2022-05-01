@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?><testrun name="Runner" project="cbpro" tests="2" started="2" failures="0" errors="0" ignored="0">
+  <testsuite name="cbddpackage.Runner" time="0.179">
+    <testsuite name="Searching of various categories should be possible along with product search" time="0.179">
+      <testcase name="Search for the products under Books category" classname="Searching of various categories should be possible along with product search" time="0.165"/>
+      <testcase name="Search for the products under Baby category" classname="Searching of various categories should be possible along with product search" time="0.013"/>
+    </testsuite>
+  </testsuite>
+</testrun>
